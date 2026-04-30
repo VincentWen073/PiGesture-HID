@@ -1,0 +1,14 @@
+
+venv/
+__pycache__/
+*.pyc
+
+**/Debug/
+**/Release/
+*.o
+*.elf
+*.list
+*.map
+
+.DS_Store
+.vscode/

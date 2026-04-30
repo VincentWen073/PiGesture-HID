@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<item key="replaceBarOpen" value="false"/>
+	<list key="searchhistory">
+		<item value="LD2_Pin"/>
+		<item value="GPIO_PIN_5"/>
+		<item value="oled_is_busy"/>
+		<item value="HAL_UART"/>
+	</list>
+</section>
