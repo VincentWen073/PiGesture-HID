@@ -9,6 +9,13 @@ Built with **Raspberry Pi 5** for AI processing and **STM32 F446RE** for interac
 ## 📺 Project Overview
 This project uses MediaPipe on a Raspberry Pi 5 to track hand landmarks, translates them into mouse movements (relative positioning, smoothing, and acceleration), and emulates a standard Bluetooth HID mouse. An STM32-powered OLED dashboard provides real-time telemetry (FPS, Latency, Directions) and physical control via buttons.
 
+
+https://github.com/user-attachments/assets/c1ed6b2b-64f0-486d-948e-6f0801126c16
+
+
+https://github.com/user-attachments/assets/20edd4bf-9211-4ed7-b41f-8eb7356fcad4
+
+
 ### Key Features
 - **Vision-Powered Control**: Accurate hand tracking using MediaPipe Hands.
 - **Bluetooth HID Emulation**: The RPi 5 acts as a native Bluetooth mouse compatible with PC/Mac.
